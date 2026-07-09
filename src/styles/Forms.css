@@ -15,6 +15,14 @@ input, textarea {
   border: 1px solid #ccc;
   border-radius: 6px;
 }
+textarea {
+  min-height: 80px; 
+}
+
+input[type="tel"] {
+  letter-spacing: 2px;
+}
+
 
 button {
   background: #4CAF50;
