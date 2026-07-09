@@ -69,6 +69,9 @@ import MultiFormPage from "./pages/MultiFormPage";
 import FeedbackForm from "./components/FeedbackForm";
 import ContactForm from "./components/ContactForm";
 import RegistrationForm from "./components/RegistrationForm";
+import "./styles/Forms.css";
+
+
 
 function App() {
   return (
